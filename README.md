@@ -5,7 +5,10 @@
 ### Combine CSS attribues in HTML/JSX without editing CSS file
 
 ```jsx
-<div className="f jcc m10 p06 lightskyblue">CSS DEV</div>
+<div className="f jcc m10 p06 lightskyblue">
+  <div className="fsxl">CSS</div>
+  <div className="bold">DEV</div>
+</div>
 ```
 
 ### From CSS DEV library
@@ -25,5 +28,11 @@
 }
 .lightskyblue {
   color: lightskyblue;
+}
+.fsxl {
+  font-size: x-large;
+}
+.bold {
+  font-weight: bold;
 }
 ```
