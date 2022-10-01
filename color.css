@@ -1,0 +1,450 @@
+.grey {
+  color: grey;
+}
+.black {
+  color: black;
+}
+.red {
+  color: red;
+}
+.pink {
+  color: pink;
+}
+.blue {
+  color: blue;
+}
+.dblue {
+  color: dodgerblue;
+}
+.green {
+  color: green;
+}
+.yellow {
+  color: yellow;
+}
+.yellowgreen {
+  color: yellowgreen;
+}
+.white {
+  color: white;
+}
+.orange {
+  color: orange;
+}
+
+.purple {
+  color: purple;
+}
+
+.lightblue {
+  color: lightblue;
+}
+
+.lightcoral {
+  color: lightcoral;
+}
+
+.lightgreen {
+  color: lightgreen;
+}
+.lightseagreen {
+  color: lightseagreen;
+}
+.lightcyan {
+  color: lightcyan;
+}
+.lightgrey {
+  color: lightgrey;
+}
+.lightsalmon {
+  color: lightsalmon;
+}
+.lightskyblue {
+  color: lightskyblue;
+}
+.lightslategray {
+  color: lightslategray;
+}
+.darkcyan {
+  color: darkcyan;
+}
+.darkmagenta {
+  color: darkmagenta;
+}
+.magenta {
+  color: magenta;
+}
+.seagreen {
+  color: seagreen;
+}
+.springgreen {
+  color: springgreen;
+}
+.salmon {
+  color: salmon;
+}
+.seashell {
+  color: seashell;
+}
+.snow {
+  color: snow;
+}
+.crimson {
+  color: crimson;
+}
+.cyan {
+  color: cyan;
+}
+.darkcyan {
+  color: darkcyan;
+}
+.royalblue {
+  color: royalblue;
+}
+.palevioletred {
+  color: palevioletred;
+}
+.paleturquoise {
+  color: paleturquoise;
+}
+.palegreen {
+  color: palegreen;
+}
+
+.bg-grey {
+  background-color: grey;
+}
+.bg-black {
+  background-color: black;
+}
+.bg-red {
+  background-color: red;
+}
+.bg-pink {
+  background-color: pink;
+}
+.bg-blue {
+  background-color: blue;
+}
+.bg-dblue {
+  background-color: dodgerblue;
+}
+.bg-green {
+  background-color: green;
+}
+.bg-yellow {
+  background-color: yellow;
+}
+.bg-yellowgreen {
+  background-color: yellowgreen;
+}
+.bg-white {
+  background-color: white;
+}
+.bg-orange {
+  background-color: orange;
+}
+
+.bg-purple {
+  background-color: purple;
+}
+
+.bg-lightblue {
+  background-color: lightblue;
+}
+
+.bg-lightcoral {
+  background-color: lightcoral;
+}
+
+.bg-lightgreen {
+  background-color: lightgreen;
+}
+.bg-lightseagreen {
+  background-color: lightseagreen;
+}
+.bg-lightcyan {
+  background-color: lightcyan;
+}
+.bg-lightgrey {
+  background-color: lightgrey;
+}
+.bg-lightsalmon {
+  background-color: lightsalmon;
+}
+.bg-lightskyblue {
+  background-color: lightskyblue;
+}
+.bg-lightslategray {
+  background-color: lightslategray;
+}
+.bg-darkcyan {
+  background-color: darkcyan;
+}
+.bg-darkmagenta {
+  background-color: darkmagenta;
+}
+.bg-magenta {
+  background-color: magenta;
+}
+.bg-seagreen {
+  background-color: seagreen;
+}
+.bg-springgreen {
+  background-color: springgreen;
+}
+.bg-salmon {
+  background-color: salmon;
+}
+.bg-seashell {
+  background-color: seashell;
+}
+.bg-snow {
+  background-color: snow;
+}
+.bg-crimson {
+  background-color: crimson;
+}
+.bg-cyan {
+  background-color: cyan;
+}
+.bg-darkcyan {
+  background-color: darkcyan;
+}
+.bg-royalblue {
+  background-color: royalblue;
+}
+.bg-palevioletred {
+  background-color: palevioletred;
+}
+.bg-paleturquoise {
+  background-color: paleturquoise;
+}
+.bg-palegreen {
+  background-color: palegreen;
+}
+
+.hov-grey:hover {
+  color: grey;
+}
+.hov-black:hover {
+  color: black;
+}
+.hov-red:hover {
+  color: red;
+}
+.hov-pink:hover {
+  color: pink;
+}
+.hov-blue:hover {
+  color: blue;
+}
+.hov-dblue:hover {
+  color: dodgerblue;
+}
+.hov-green:hover {
+  color: green;
+}
+.hov-yellow:hover {
+  color: yellow;
+}
+.hov-yellowgreen:hover {
+  color: yellowgreen;
+}
+.hov-white:hover {
+  color: white;
+}
+.hov-orange:hover {
+  color: orange;
+}
+
+.hov-purple:hover {
+  color: purple;
+}
+
+.hov-lightblue:hover {
+  color: lightblue;
+}
+
+.hov-lightcoral:hover {
+  color: lightcoral;
+}
+
+.hov-lightgreen:hover {
+  color: lightgreen;
+}
+.hov-lightseagreen:hover {
+  color: lightseagreen;
+}
+.hov-lightcyan:hover {
+  color: lightcyan;
+}
+.hov-lightgrey:hover {
+  color: lightgrey;
+}
+.hov-lightsalmon:hover {
+  color: lightsalmon;
+}
+.hov-lightskyblue:hover {
+  color: lightskyblue;
+}
+.hov-lightslategray:hover {
+  color: lightslategray;
+}
+.hov-darkcyan:hover {
+  color: darkcyan;
+}
+.hov-darkmagenta:hover {
+  color: darkmagenta;
+}
+.hov-magenta:hover {
+  color: magenta;
+}
+.hov-seagreen:hover {
+  color: seagreen;
+}
+.hov-springgreen:hover {
+  color: springgreen;
+}
+.hov-salmon:hover {
+  color: salmon;
+}
+.hov-seashell:hover {
+  color: seashell;
+}
+.hov-snow:hover {
+  color: snow;
+}
+.hov-crimson:hover {
+  color: crimson;
+}
+.hov-cyan:hover {
+  color: cyan;
+}
+.hov-darkcyan:hover {
+  color: darkcyan;
+}
+.hov-royalblue:hover {
+  color: royalblue;
+}
+.hov-palevioletred:hover {
+  color: palevioletred;
+}
+.hov-paleturquoise:hover {
+  color: paleturquoise;
+}
+.hov-palegreen:hover {
+  color: palegreen;
+}
+.hov-bg-grey:hover {
+  background-color: grey;
+}
+.hov-bg-black:hover {
+  background-color: black;
+}
+.hov-bg-red:hover {
+  background-color: red;
+}
+.hov-bg-pink:hover {
+  background-color: pink;
+}
+.hov-bg-blue:hover {
+  background-color: blue;
+}
+.hov-bg-dblue:hover {
+  background-color: dodgerblue;
+}
+.hov-bg-green:hover {
+  background-color: green;
+}
+.hov-bg-yellow:hover {
+  background-color: yellow;
+}
+.hov-bg-yellowgreen:hover {
+  background-color: yellowgreen;
+}
+.hov-bg-white:hover {
+  background-color: white;
+}
+.hov-bg-orange:hover {
+  background-color: orange;
+}
+
+.hov-bg-purple:hover {
+  background-color: purple;
+}
+
+.hov-bg-lightblue:hover {
+  background-color: lightblue;
+}
+
+.hov-bg-lightcoral:hover {
+  background-color: lightcoral;
+}
+
+.hov-bg-lightgreen:hover {
+  background-color: lightgreen;
+}
+.hov-bg-lightseagreen:hover {
+  background-color: lightseagreen;
+}
+.hov-bg-lightcyan:hover {
+  background-color: lightcyan;
+}
+.hov-bg-lightgrey:hover {
+  background-color: lightgrey;
+}
+.hov-bg-lightsalmon:hover {
+  background-color: lightsalmon;
+}
+.hov-bg-lightskyblue:hover {
+  background-color: lightskyblue;
+}
+.hov-bg-lightslategray:hover {
+  background-color: lightslategray;
+}
+.hov-bg-darkcyan:hover {
+  background-color: darkcyan;
+}
+.hov-bg-darkmagenta:hover {
+  background-color: darkmagenta;
+}
+.hov-bg-magenta:hover {
+  background-color: magenta;
+}
+.hov-bg-seagreen:hover {
+  background-color: seagreen;
+}
+.hov-bg-springgreen:hover {
+  background-color: springgreen;
+}
+.hov-bg-salmon:hover {
+  background-color: salmon;
+}
+.hov-bg-seashell:hover {
+  background-color: seashell;
+}
+.hov-bg-snow:hover {
+  background-color: snow;
+}
+.hov-bg-crimson:hover {
+  background-color: crimson;
+}
+.hov-bg-cyan:hover {
+  background-color: cyan;
+}
+.hov-bg-darkcyan:hover {
+  background-color: darkcyan;
+}
+.hov-bg-royalblue:hover {
+  background-color: royalblue;
+}
+.hov-bg-palevioletred:hover {
+  background-color: palevioletred;
+}
+.hov-bg-paleturquoise:hover {
+  background-color: paleturquoise;
+}
+.hov-bg-palegreen:hover {
+  background-color: palegreen;
+}

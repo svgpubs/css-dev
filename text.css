@@ -1,0 +1,42 @@
+.tac {
+  text-align: center;
+}
+.tal {
+  text-align: left;
+}
+.tar {
+  text-align: right;
+}
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+.mono {
+  font-family: "Courier New", Courier, monospace;
+}
+.fss {
+  font-size: small;
+}
+.fssr {
+  font-size: smaller;
+}
+.fsxs {
+  font-size: x-small;
+}
+.fsxxs {
+  font-size: xx-small;
+}
+.fsm {
+  font-size: medium;
+}
+.fsl {
+  font-size: large;
+}
+.fsxl {
+  font-size: x-large;
+}
+.fsxxl {
+  font-size: xx-large;
+}

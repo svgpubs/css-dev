@@ -1,0 +1,39 @@
+.scroll {
+  overflow: scroll;
+}
+
+.scrollx {
+  overflow-x: scroll;
+}
+
+.scrolly {
+  overflow-y: scroll;
+}
+
+.ofhide {
+  overflow: hidden;
+}
+
+.ofvis {
+  overflow: visible;
+}
+
+.resize {
+  resize: both;
+}
+
+.resizeh {
+  resize: horizontal;
+}
+
+.resizev {
+  resize: vertical;
+}
+
+.border {
+  border: 1px solid black;
+}
+
+.brad {
+  border-radius: 4px;
+}
