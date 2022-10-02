@@ -1,8 +1,8 @@
-@import "./flex.css";
-@import "./color.css";
-@import "./height.css";
-@import "./width.css";
-@import "./margin.css";
-@import "./padding.css";
-@import "./misc.css";
-@import "./text.css";
+@import "./cssdev/flex.css";
+@import "./cssdev/color.css";
+@import "./cssdev/height.css";
+@import "./cssdev/width.css";
+@import "./cssdev/margin.css";
+@import "./cssdev/padding.css";
+@import "./cssdev/misc.css";
+@import "./cssdev/text.css";

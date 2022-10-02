@@ -4,6 +4,11 @@
 
 ### Combine CSS attribues in HTML/JSX without editing CSS file
 
+```js
+import "./cssdev.css";
+//React App
+```
+
 ```jsx
 <div className="f jcc m10 p06 lightskyblue">
   <div className="fsxl">CSS</div>
